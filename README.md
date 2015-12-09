@@ -16,6 +16,7 @@ ImgPlace
 ##Example:
 
     <img src="http://localhost/100" />
+    <img src="http://localhost/dog/200" />
     <img src="http://localhost/200x100" />
     <img src="http://localhost/350x150/f00/000" />
 
